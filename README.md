@@ -22,3 +22,8 @@ The notebook covers:
 ## 9 October 2026
 
 `LAB 09-10-2026/lab test.py` uses sets to compare student enrollments across three courses. It finds students in all courses, in at least one course, in exactly one or two courses, and in Course 1 but not Course 2.
+
+## 6 November 2026
+
+The notebook covers:
+- Performing multiple list operations
